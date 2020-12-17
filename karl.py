@@ -1,2 +1,2 @@
 
-ts of fancy stuff here.
+lots of fancy stuff here.
